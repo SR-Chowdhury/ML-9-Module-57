@@ -1,0 +1,112 @@
+[
+    {
+    "id": 1,
+    "companyLogo": "./assets/Logo/google-1-1 1-1.png",
+    "jobTitle": "Software Engineer",
+    "companyName": "ABC Tech",
+    "remoteOrOnsite": "Remote",
+    "location": "New York, NY",
+    "fulltimeOrPartTime": "Fulltime",
+    "salary": "100 - 500K",
+    "jobDescription": "ABC Tech is seeking an experienced Software Engineer to join our team...",
+    "jobResponsibility": "Design, develop, and maintain software applications...",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "Minimum of 3 years of relevant work experience",
+    "contactInformation": {
+        "phone": "123-456-7890",
+        "email": "careers@abc-tech.com"
+    }
+    },
+    {
+    "id": 2,
+    "companyLogo": "./assets/Logo/netflix-4 1.png",
+    "jobTitle": "Data Scientist",
+    "companyName": "XYZ Analytics",
+    "remoteOrOnsite": "Onsite",
+    "location": "San Francisco, CA",
+    "fulltimeOrPartTime": "Fulltime",
+    "salary": "200 - 300K",
+    "jobDescription": "XYZ Analytics is looking for a skilled Data Scientist to join our team...",
+    "jobResponsibility": "Analyze large datasets to extract insights and patterns...",
+    "educationalRequirements": "Master's or PhD in Computer Science, Statistics, or related field",
+    "experiences": "Minimum of 5 years of experience in data science",
+    "contactInformation": {
+        "phone": "987-654-3210",
+        "email": "jobs@xyz-analytics.com"
+    }
+    },
+    {
+    "id": 3,
+    "companyLogo": "./assets/Logo/netflix-4 1.png",
+    "jobTitle": "UI/UX Designer",
+    "companyName": "Design Co.",
+    "remoteOrOnsite": "Remote",
+    "location": "Los Angeles, CA",
+    "fulltimeOrPartTime": "Fulltime",
+    "salary": "85 - 95K",
+    "jobDescription": "Design Co. is seeking a talented UI/UX Designer to join our creative team...",
+    "jobResponsibility": "Create intuitive and visually appealing user interfaces...",
+    "educationalRequirements": "Bachelor's degree in Design or related field",
+    "experiences": "Minimum of 3 years of experience in UI/UX design",
+    "contactInformation": {
+        "phone": "555-123-4567",
+        "email": "careers@designco.com"
+    }
+    },
+    {
+    "id": 4,
+    "companyLogo": "./assets/Logo/tesla-9 1.png",
+    "jobTitle": "Software Engineer",
+    "companyName": "ABC Technologies",
+    "remoteOrOnsite": "Remote",
+    "location": "Any Location",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "35 - 55 K",
+    "jobDescription": "ABC Technologies is seeking a skilled Software Engineer...",
+    "jobResponsibility": "Designing and implementing software applications...",
+    "educationalRequirements": "Bachelor's degree in Computer Science...",
+    "experiences": "3+ years of professional software development experience...",
+    "contactInformation": {
+        "phone": "123-456-7890",
+        "email": "careers@abctech.com"
+    }
+    },
+    {
+    "id": 5,
+    "companyLogo": "./assets/Logo/tesla-9 1.png",
+    "jobTitle": "Data Scientist",
+    "companyName": "XYZ Analytics",
+    "remoteOrOnsite": "Onsite",
+    "location": "New York City, NY",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "65 - 100 K",
+    "jobDescription": "XYZ Analytics is seeking a talented Data Scientist...",
+    "jobResponsibility": "Analyzing large datasets and developing machine learning models...",
+    "educationalRequirements": "Master's degree in Statistics or related field...",
+    "experiences": "5+ years of experience in data science or related field...",
+    "contactInformation": {
+        "phone": "987-654-3210",
+        "email": "jobs@xyzanalytics.com"
+    }
+    },
+    {
+    "id": 6,
+    "companyLogo": "./assets/Logo/google-1-1 1-1.png",
+    "jobTitle": "UX Designer",
+    "companyName": "Design Co.",
+    "remoteOrOnsite": "Remote",
+    "location": "Any Location",
+    "fulltimeOrPartTime": "Part-time",
+    "salary": "110 - 125K",
+    "jobDescription": "Design Co. is looking for a creative UX Designer...",
+    "jobResponsibility": "Creating wireframes, prototypes, and user interface designs...",
+    "educationalRequirements": "Bachelor's degree in Design or related field...",
+    "experiences": "2+ years of experience in UX/UI design...",
+    "contactInformation": {
+        "phone": "555-123-4567",
+        "email": "careers@designco.com"
+    }
+    }
+]
+
+  
